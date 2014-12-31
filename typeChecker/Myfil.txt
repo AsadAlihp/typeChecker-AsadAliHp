@@ -1,0 +1,9 @@
+{
+[
+	$varwe :
+	$var2 == a + 4 :
+	a ++ :
+	till $asd !! $ dsa :
+	you :
+]
+}
